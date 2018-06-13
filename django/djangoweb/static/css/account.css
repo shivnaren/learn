@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/thumb-1920-826331.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    height: 100%;       
+}
+.signup-card {
+    max-width: 500px;
+}
+.logo {
+  font-family: 'Peralta', cursive;
+}
+
+.logo a:hover, .logo a:active{
+    text-decoration: none;
+    color:white;
+}
